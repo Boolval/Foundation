@@ -1,0 +1,17 @@
+{
+    "name": "boolval/foundation",
+    "description": "The Boolval Foundation",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zulkarneyn Yavas",
+            "email": "zulkarneynyavas@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Boolval\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
