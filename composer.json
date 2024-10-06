@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Boolval\\": ""
+            "Boolval\\Foundation\\": ""
         }
     },
     "minimum-stability": "dev"
